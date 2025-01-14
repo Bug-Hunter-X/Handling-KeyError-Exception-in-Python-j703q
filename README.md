@@ -1,0 +1,1 @@
+This code demonstrates a common error in Python: the KeyError exception.  It occurs when trying to access a dictionary key that doesn't exist. The provided solution uses a try-except block to handle this exception gracefully and return a default value, preventing program crashes.
